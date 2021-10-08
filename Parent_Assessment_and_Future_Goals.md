@@ -26,12 +26,14 @@
   <ul><li> Knows to recite A-Z (says 2-3 words for each character)</li>
    <li>1-29 (can count too),20-0(reverse)</li>
    <li>Tamil letters Aa to Akku, when prodded</li>
+   <li>Can spell letters in a shop hoarding or building block (for e.g.: spells "B.A.K.E.R.Y" but does not say 'bakery' yet </li>
   </ul>
   <li>Identify Colors, Shapes, Fruits, Vegetables, Animals, Birds (with sounds) </li>
   <ul><li> Can identify the difference between triangle, rectangle, square, pentagon; Knows "Crescent" or "cross" or "diamond"</li></ul>
   <li>Sunday to Saturday</li>
   <li>Planets of Solar System</li>
   <li>Different Vehicles</li>
+  <li>Sa .. re .. .ga .. ma</li>
  </ul>
  
  
