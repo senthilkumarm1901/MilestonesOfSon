@@ -9,7 +9,7 @@
   
 </details>
 
-<details><summary> :x: NEGATIVES (click to expand) </summary>
+<details><summary> :x: CHALLENGES (click to expand) </summary>
  
  <br>
  
