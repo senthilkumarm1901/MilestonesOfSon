@@ -86,7 +86,8 @@
   <li><b>Social Skills</b>
    <ul>
     <li>Hand-flapping when excited (especially while seeing things he likes)</li>
-    <li>Hand-flapping when excited (especially while seeing things he likes)</li>
+    <li>Screams when excited</li>
+    <li>Runs in the hall for at most a few min continuously when excited while he watches his cartoon</li>
     <li>Inconsistent "Hi", "Good Bye", "Hello".</li>
     <li>Inconsistent response to name calling</li>
     <ul>
@@ -116,6 +117,9 @@
   </li>
   <li><b>Behavioural Skills</b>
    <ul>
+    <li>Hand-flapping when excited (especially while seeing things he likes)</li>
+    <li>Screams when excited</li>
+    <li>Runs in the hall for at most a few min continuously when excited while he watches his cartoon</li>
     <li>May not "always" wait for our approval nod when doing something new</li>
     <li>Entire hand-flapping when excited (especially while seeing things he likes)</li>
     <li>Does not do pretend play</li>
