@@ -85,7 +85,8 @@
  <ul>
   <li><b>Social Skills</b>
    <ul>
-    <li> Entire hand-flapping when excited (especially while seeing things he likes)</li>
+    <li>Hand-flapping when excited (especially while seeing things he likes)</li>
+    <li>Hand-flapping when excited (especially while seeing things he likes)</li>
     <li>Inconsistent "Hi", "Good Bye", "Hello".</li>
     <li>Inconsistent response to name calling</li>
     <ul>
