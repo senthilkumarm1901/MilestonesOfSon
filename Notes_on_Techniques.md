@@ -9,16 +9,19 @@ What we are trying to read/reading (work in progress/ not exhaustive): <br>
     - [Amazon book Link](https://www.amazon.com/World-Difference-Ultimate-Handbook-Parenting/dp/1639047972) <br>
     - [Uniquely Humane Amazon book link](https://www.amazon.com/Uniquely-Human-Different-Seeing-Autism/dp/1476776245/ref=sr_1_1?dchild=1&keywords=uniquely+human&qid=1634733348&qsid=147-8342270-8237523&s=books&sr=1-1&sres=1476776245%2C0812994868%2C1982193891%2C1684033888%2C0393714845%2CB00L9AY254%2C1647398312%2CB00FML0QOM%2CB07NF681RS%2C0062270451%2C1541647149%2CB07T4H92H7%2C1629145076%2C1878424505%2C1641521236%2C1641522968&srpt=ABIS_BOOK) <br>
 <br>
-2. **ABA - Applied Behaviour Analysis**: <br>
+
+2. **ABA - Applied Behaviour Analysis**: 
 <br>
-   2A. **Verbal Operants**
-       source: [Link](https://sites.google.com/site/hdmcleansportfolio/verbal-behavior/verbal-operants) <br>
-        - **Tacting** - labeling something ("pointing at a bus and calling it bus") <br>
-        - **Manding** - Requesting for something ("Biscuit (please)") <br>
-        - **Intraverbal** - Conversation/Question & Answer like ("What is your name?") <br>
-        - **Listener Responding** - Responding to an exercise by finishing the activity ("Bring shoe|mobile")<br>
-        - **Motor Imitation** - Imitating an action performed by a person directed at you ("They ask you - You want a Coffee though a drinking sign and you respond back with the same sign lang)" <br>
-        - **Echoics** - Simply put, Verbal imitation <br>
+   2A. **Verbal Operants** <br>
+   Source: [Link](https://sites.google.com/site/hdmcleansportfolio/verbal-behavior/verbal-operants) <br>
+   
+   - **Tacting** - labeling something ("pointing at a bus and calling it bus") <br>
+   - **Manding** - Requesting for something ("Biscuit (please)") <br>
+   - **Intraverbal** - Conversation/Question & Answer like ("What is your name?") <br>
+   - **Listener Responding** - Responding to an exercise by finishing the activity ("Bring shoe|mobile")<br>
+   - **Motor Imitation** - Imitating an action performed by a person directed at you ("They ask you - You want a Coffee though a drinking sign and you respond back with the same sign lang)" <br>
+   - **Echoics** - Simply put, Verbal imitation <br>
+   
    ![Verbal Operants](https://sites.google.com/site/hdmcleansportfolio/_/rsrc/1472859488886/verbal-behavior/verbal-operants/Capture2.PNG)
    
    <br>
