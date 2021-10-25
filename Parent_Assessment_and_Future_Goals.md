@@ -46,6 +46,8 @@
      <li>"row row row your boat"</li>
      <li>"wheels on the bus"</li>
      <li>"ants go marching" (sings this when seeing ants)</li>
+     <li>"rain rain go away" (sings when raining)</li>
+     <li>"shark do do do"</li>
      <li>and a few more</li>
     </ul><li>Not a fussy eater</li>
     <ul>
@@ -67,11 +69,12 @@
     </ul>
    </ul>
   </li>
-  <li><b>Motor</b>
+  <li><b>Motor Skills and Motor Imitation</b>
    <ul>
     <li>No problem with fine or gross motor skills</li>
     <li>Can throw ball over head, can kick ball well</li>
     <li>Plays ball with parents (responds to throw the ball; catch the ball with some happiness/excitement)</li>
+    <li>Will do & sing "wiggle and shake", "touch the sky", "jump up high"(still not able to jump both legs up together), "touch your feet"</li>
    </ul>
   </li>
  </ul>
@@ -99,6 +102,7 @@
     <li>Joint attention possible on the subject of his interest</li>
     <ul>
      <li>"Hey anga paru, police car|fire|truck"</li>
+     <li>Dhuruv, anga paru "star | moon"</li>
     </ul>
    </ul>
   </li>
@@ -117,8 +121,9 @@
   </li>
   <li><b>Behavioural Skills</b>
    <ul>
-    <li>Hand-flapping when excited (especially while seeing things he likes)</li>
+    <li>Not frequent but observed: Hand-flapping when excited (especially while seeing things he likes; observant when he watches one of his favorites "scrat")</li>
     <li>Screams when excited</li>
+    <li>Repeats the sound like "yaamy yammmy (4 to 10 times)" (not the happy "yummy") when we deny or change what he enjoys</li>
     <li>Runs in the hall for at most a few min continuously when excited while he watches his cartoon</li>
     <li>May not "always" wait for our approval nod when doing something new</li>
     <li>Entire hand-flapping when excited (especially while seeing things he likes)</li>
@@ -128,6 +133,10 @@
     <li>Collects similar looking objects (sometimes obsessed to collect everything but manageable tantrum)</li>
    </ul>
   </li>
+  <li><b>Motor Skills and Motor Imitation</b>
+   <ul>
+    <li>Won't look and repeat our action like squat and get up (unless he wants to)</li>
+   </ul> 
  </ul>
   
    
