@@ -49,7 +49,13 @@ What we are trying to read/reading (work in progress/ not exhaustive): <br>
    - 15. Reading <br>
    - 16. Writing <br>
    - 17. Maths
-
+   
+   2C. Mary Barbera
+   - Focus on the playlist first in her channel: 
+       - [YouTube Channel](https://www.youtube.com/watch?v=eZztE4oRhSM&list=PL0_NcGwhzOkhLyLHhlyhzEAW1DlD2Qp5L)
+       - [YouTube ABA for Everyone Playlist](https://www.youtube.com/watch?v=eZztE4oRhSM&list=PL0_NcGwhzOkhLyLHhlyhzEAW1DlD2Qp5L)
+   - Maybe Paid course (once YouTube videos are done)
+       - https://marybarbera.com/earlyautism/
 
 3. **Hanen** (unexplored yet!) <br>
     - [Link](http://www.hanen.org/About-Us/What-We-Do/Early-Childhood-Autism.aspx) <br>
