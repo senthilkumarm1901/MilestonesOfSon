@@ -177,6 +177,7 @@
   </ul>
  <li>Some decent similar-age play with peers</li>
  <li>Greet and say hello or hi to others</li>
+ <li>Reduce instances of screeching sound</li>
  <li>Measure sitting tolerance and improve it gradually (otherwise potty or any listener responding activity looks difficult)</li>
  <li>Nearly consistent Verbal Imitation (Echoic and others)</li>
  <li>Good Motor Imitation</li>
