@@ -26,9 +26,30 @@ What we are trying to read/reading (work in progress/ not exhaustive): <br>
    
    <br>
    
-   2B. **Verbal Behavior Milestones Assessment and Placement Program** (look for the measurement criteria)
-    Useful links: <br>
+   2B. **Verbal Behavior Milestones Assessment and Placement Program** (look for the measurement criteria) <br>
+    Useful link: <br>
     - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4883535/ <br>
+    - [VBMAPP Metrics](https://www.verbalbeginnings.com/aba-blog/vbmapp/#:~:text=Visual%20perceptual%20skills%20and%20matching,MTS%20(matching%20visual%20stimuli).)
+    
+   Techniques of Measurement/ Areas of Focus: <br>
+   - 1. Tacting <br>
+   - 2. Manding <br>
+   - 3. Listener Responding <br>
+   - 4. Visual Perception Skills and asked to match-to-sample (VP-MTS) <br>
+   - 5. Independent Play <br>
+   - 6. Social Behavior and Social Play <br>
+   - 7. Motor Imitation <br>
+   - 8. Echoic <br>
+   - 9. Spontaneous Vocal <br>
+   - 10. Listener Responding by Function, Feature, Class (LRFCC) <br>
+   - 11. Intraverbal (IV)<br>
+   - 12. Class Room Peers and Group Skills <br>
+   - 13. Linguistic Structure <br>
+   - 14. Textual <br>
+   - 15. Reading <br>
+   - 16. Writing <br>
+   - 17. Maths
+
 
 3. **Hanen** (unexplored yet!) <br>
     - [Link](http://www.hanen.org/About-Us/What-We-Do/Early-Childhood-Autism.aspx) <br>
