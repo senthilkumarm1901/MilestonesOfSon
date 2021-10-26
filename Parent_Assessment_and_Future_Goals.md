@@ -163,3 +163,22 @@
  
  
 </details>
+
+
+### Key Goals till Age 3 (to be discussed with therapists)
+
+<ul>
+ <li>Ability to follow simple instructions</li>
+  <ul>
+   <li>Sit on the potty chair</li>
+   <li>Pick up "something"</li>
+   <li>bring "something"</li>
+   <li>Understand "No", "wait" and "stop"</li>
+  </ul>
+ <li>Some decent similar-age play with peers</li>
+ <li>Greet and say hello or hi to others</li>
+ <li>Measure sitting tolerance and improve it gradually (otherwise potty or any listener responding activity looks difficult)</li>
+ <li>Nearly consistent Verbal Imitation (Echoic and others)</li>
+ <li>Good Motor Imitation</li>
+ <li>Communicating "hunger" to us (he asks for "thanni"(water) on his own)</li>
+ 
