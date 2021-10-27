@@ -183,3 +183,17 @@
  <li>Good Motor Imitation</li>
  <li>Communicating "hunger" to us (he asks for "thanni"(water) on his own)</li>
  
+ 
+### Incremental Improvements in the months of 28,29,30
+<details><summary> :heavy_check_mark: POSITIVES (click to expand) </summary>
+ 
+ <br>
+  
+ <ul>
+  <li><b>Social </b>
+   <ul>
+    <li>Voluntarily asks for hugs to parents and comes to hug us when hands are extended</li>
+    <li>Does Hi-Five now with parents since end of 27th month (training for fist bump where in he is holding the fist)</li>
+    <li>When people say hi/hello, he is looking at their face and not reacting and not waving back. </li>
+   </ul>
+ 
