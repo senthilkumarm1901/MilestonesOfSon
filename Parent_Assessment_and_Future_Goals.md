@@ -182,7 +182,7 @@
  <li>Nearly consistent Verbal Imitation (Echoic and others)</li>
  <li>Good Motor Imitation</li>
  <li>Communicating "hunger" to us (he asks for "thanni"(water) on his own)</li>
- 
+</ul> 
  
 ### Incremental Improvements in the months of 28,29,30
 <details><summary> :heavy_check_mark: POSITIVES (click to expand) </summary>
