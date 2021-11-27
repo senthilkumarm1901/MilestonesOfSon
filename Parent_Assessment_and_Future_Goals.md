@@ -195,5 +195,6 @@
     <li>Voluntarily asks for hugs to parents and comes to hug us when hands are extended</li>
     <li>Does Hi-Five now with parents since end of 27th month (training for fist bump where in he is holding the fist)</li>
     <li>When people say hi/hello, he is looking at their face and not reacting and not waving back. </li>
+    <li>He asks us to do "silly", "angry", "surprise" and "happy" face reactions. He des "angry" and "surprise" face reactions</li>
    </ul>
  
