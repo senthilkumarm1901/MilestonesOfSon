@@ -184,7 +184,7 @@
  <li>Communicating "hunger" to us (he asks for "thanni"(water) on his own)</li>
 </ul> 
  
-### Incremental Improvements in the months of 28,29,30
+### Incremental Changes in the months of 28,29,30
 <details><summary> :heavy_check_mark: POSITIVES (click to expand) </summary>
  
  <br>
@@ -198,3 +198,17 @@
     <li>He asks us to do "silly", "angry", "surprise" and "happy" face reactions. He des "angry" and "surprise" face reactions</li>
    </ul>
  
+</details>
+
+<details><summary> :muscle: Challenges (click to expand) </summary>
+ 
+ <br>
+  
+ <ul>  
+ <li><b>Behavioural </b>
+  <ul>
+   <li>Have seen VERY LESS of hand flapping this month, almost nil | but replaced with spinning | Does spinning a lot</li>
+  </ul>
+ </ul>
+ 
+ </details>
