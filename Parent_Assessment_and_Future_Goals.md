@@ -197,6 +197,12 @@
     <li>When people say hi/hello, he is looking at their face and not reacting and not waving back. </li>
     <li>He asks us to do "silly", "angry", "surprise" and "happy" face reactions. He des "angry" and "surprise" face reactions</li>
    </ul>
+   
+  <li><b>Expressive Communication </b>
+   <ul>
+    <li>Starting to call "mommy" and "daddy" when trying to tell us something. E.g.: "daddy thatchi (tamil for "lie down")"</li>
+    <li>Had asked for "mommy" (twice actually) when we left him to others except parents</li>
+   </ul>
  
 </details>
 
